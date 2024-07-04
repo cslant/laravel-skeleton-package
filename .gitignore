@@ -17,7 +17,24 @@ public_html/hot
 
 storage/*.key
 .env
+.env.*
 Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+.vscode
+.idea
+
+__MACOSX
+/.phpintel
+/.php_cs.cache
+.DS_Store
+
+logs/
+log/
+
+_ide_helper.php
+yarn.lock
+bun.lockb
+/.sass-cache
